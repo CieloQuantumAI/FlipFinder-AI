@@ -1,0 +1,353 @@
+{
+  "status": {
+    "code": 200,
+    "text": "OK"
+  },
+  "results": {
+    "properties": [
+      {
+        "_id": "dc81867af96e772f433c7a70f233fef4",
+        "address": {
+          "addressValidity": "Valid",
+          "houseNumber": "2512",
+          "street": "2512 Cortland St",
+          "city": "Detroit",
+          "county": "Wayne",
+          "state": "MI",
+          "zip": "48206",
+          "zipPlus4": "3601",
+          "latitude": 42.387225,
+          "longitude": -83.116296,
+          "countyFipsCode": "26163",
+          "hash": "1ccdbd82b1f5db8fddae8e6584123ff9"
+        },
+        "deedHistory": [
+          {
+            "buyers": ["MORRIS EUGENIA", "WEDLOW DELORES"],
+            "sellers": ["MORRIS EUGENIA", "SIMPSON EUGENIA"],
+            "recordingDate": "2015-01-09T00:00:00.000Z",
+            "saleDate": "2014-12-04T00:00:00.000Z",
+            "documentNumber": "2015021209",
+            "recordingBook": "51964",
+            "recordingPage": "0911",
+            "documentTypeCode": "AQ",
+            "documentType": "Intra-Family Transfer",
+            "salePrice": 0,
+            "interFamily": true,
+            "transactionType": "Non-arms length transactions with valid title company name (no accomodations)",
+            "transactionTypeCode": "A",
+            "mailingAddress": {
+              "street": "2292 Calvert St",
+              "city": "Detroit",
+              "state": "MI",
+              "zip": "48206",
+              "hash": "2cddbb2634859a623746b83ed5e27763"
+            }
+          },
+          {
+            "buyers": ["EDIFYC CONSTRUCTION LLC"],
+            "sellers": ["WEDLOW DELORES", "WEDLOW JEREMY"],
+            "recordingDate": "2024-07-30T00:00:00.000Z",
+            "saleDate": "2024-06-28T00:00:00.000Z",
+            "documentNumber": "2024.214538",
+            "recordingBook": "58999",
+            "recordingPage": "1453",
+            "documentTypeCode": "BZ",
+            "documentType": "Warranty Deed",
+            "salePrice": 30000,
+            "transactionType": "Arms-length residential transactions (purchase/resales)",
+            "transactionTypeCode": "B",
+            "mailingAddress": {
+              "street": "745 Jackson St NW",
+              "city": "Grand Rapids",
+              "state": "MI",
+              "zip": "49504",
+              "hash": "d522b84417527223f02e33de802c2a86"
+            }
+          }
+        ],
+        "demographics": {
+          "age": 57,
+          "householdSize": 1,
+          "income": 8000,
+          "netWorth": 30000,
+          "discretionaryIncome": 3750,
+          "homeownerRenterCode": "O",
+          "homeownerRenter": "Home Owner",
+          "genderCode": "M",
+          "gender": "Male",
+          "investments": ["Investment Properties"],
+          "maritalStatusCode": "S",
+          "maritalStatus": "Single",
+          "religious": true,
+          "religiousAffiliationCode": "P",
+          "religiousAffiliation": "Protestant",
+          "individualOccupation": "Other",
+          "individualOccupationCode": "Z"
+        },
+        "foreclosure": {
+          "statusCode": "E",
+          "status": "Rescission Recording",
+          "recordingDate": "2023-02-17T00:00:00.000Z",
+          "filingDate": "2023-02-17T00:00:00.000Z",
+          "documentNumber": "32687",
+          "bookNumber": "58084",
+          "pageNumber": "1099",
+          "documentTypeCode": "L",
+          "documentType": "Notice of Rescission",
+          "borrowerName": "Simpson Eugenia",
+          "trusteeName": "Wayne County Treasurer",
+          "releaseDate": "2023-02-17T00:00:00.000Z"
+        },
+        "ids": {
+          "apn": "10003608."
+        },
+        "intel": {
+          "salePropensity": 100,
+          "salePropensityStatus": "Available",
+          "salePropensityCategory": "High"
+        },
+        "involuntaryLien": {
+          "liens": [
+            {
+              "bookNumber": "59004",
+              "documentNumber": "2024217027",
+              "documentType": "Notice of Redemption",
+              "documentTypeCode": "DN",
+              "lienType": "Other",
+              "lienTypeCode": "A",
+              "pageNumber": "568",
+              "recordingDate": "2024-08-01T00:00:00.000Z"
+            }
+          ]
+        },
+        "listing": {
+          "listingNumber": "20251025842",
+          "status": "Active",
+          "price": 110000,
+          "rental": false,
+          "daysOnMarket": 68,
+          "originalListingDate": "2025-08-12T00:00:00.000Z",
+          "maxListPrice": 120000,
+          "maxListPriceDate": "2025-08-12T00:00:00.000Z",
+          "minListPrice": 0,
+          "minListPriceDate": "2016-04-20T00:00:00.000Z",
+          "soldPrice": 15000,
+          "soldDate": "2024-06-28T00:00:00.000Z",
+          "bedroomCount": 4,
+          "bathroomCount": 2,
+          "totalBuildingAreaSquareFeet": 1342,
+          "lotSizeSquareFeet": 4356,
+          "floorCount": 2,
+          "propertyType": "Residential",
+          "yearBuilt": 1924,
+          "heatingFuelTypes": ["Natural Gas"],
+          "heatingTypes": ["Forced Air"],
+          "hasFireplace": false,
+          "fullBathroomCount": 1,
+          "halfBathroomCount": 1,
+          "listingProviderId": "Realcomp",
+          "listingProviderName": "Realcomp Limited II",
+          "listingUrl": "https://www.realtor.com/realestateandhomes-detail/2512-Cortland-St_Detroit_MI_48206_M45891-43361",
+          "livingArea": 1342,
+          "taxes": [
+            { "amount": 2183, "year": 2024 },
+            { "amount": 1052, "year": 2023 },
+            { "amount": 1023, "year": 2022 },
+            { "amount": 997, "year": 2021 },
+            { "amount": 997, "year": 2020 },
+            { "amount": 1297, "year": 2019 },
+            { "amount": 949, "year": 2018 },
+            { "amount": 974, "year": 2017 },
+            { "amount": 978, "year": 2016 },
+            { "amount": 1005, "year": 2015 },
+            { "amount": 1082, "year": 2014 },
+            { "amount": 1059, "year": 2013 },
+            { "amount": 1032, "year": 2012 },
+            { "amount": 1015, "year": 2011 },
+            { "amount": 994, "year": 2010 },
+            { "amount": 983, "year": 2009 },
+            { "amount": 939, "year": 2008 },
+            { "amount": 931, "year": 2007 }
+          ],
+          "schools": [{ "district": "Detroit" }],
+          "brokerage": {
+            "name": "Real Estate One St. Clair Shores",
+            "phoneNumber": "2483046700"
+          },
+          "agents": [
+            { "primaryPhoneNumber": "3134459159", "roles": ["Listing Agent"] }
+          ],
+          "salePriceIsEstimated": false
+        },
+        "mls": {
+          "mlsNumber": "20251025842",
+          "status": "Active",
+          "price": 110000,
+          "rental": false,
+          "daysOnMarket": 68,
+          "originalListingDate": "2025-08-12T00:00:00.000Z",
+          "maxListPrice": 120000,
+          "maxListPriceDate": "2025-08-12T00:00:00.000Z",
+          "minListPrice": 0,
+          "minListPriceDate": "2016-04-20T00:00:00.000Z",
+          "soldPrice": 15000,
+          "soldDate": "2024-06-28T00:00:00.000Z",
+          "bedroomCount": 4,
+          "bathroomCount": 2,
+          "totalBuildingAreaSquareFeet": 1342,
+          "lotSizeSquareFeet": 4356,
+          "floorCount": 2,
+          "propertyType": "Residential",
+          "yearBuilt": 1924,
+          "heatingFuelTypes": ["Natural Gas"],
+          "heatingTypes": ["Forced Air"],
+          "hasFireplace": false,
+          "fullBathroomCount": 1,
+          "halfBathroomCount": 1,
+          "mlsId": "Realcomp",
+          "mlsName": "Realcomp Limited II",
+          "listingUrl": "https://www.realtor.com/realestateandhomes-detail/2512-Cortland-St_Detroit_MI_48206_M45891-43361",
+          "livingArea": 1342,
+          "taxes": [
+            { "amount": 2183, "year": 2024 },
+            { "amount": 1052, "year": 2023 },
+            { "amount": 1023, "year": 2022 },
+            { "amount": 997, "year": 2021 },
+            { "amount": 997, "year": 2020 },
+            { "amount": 1297, "year": 2019 },
+            { "amount": 949, "year": 2018 },
+            { "amount": 974, "year": 2017 },
+            { "amount": 978, "year": 2016 },
+            { "amount": 1005, "year": 2015 },
+            { "amount": 1082, "year": 2014 },
+            { "amount": 1059, "year": 2013 },
+            { "amount": 1032, "year": 2012 },
+            { "amount": 1015, "year": 2011 },
+            { "amount": 994, "year": 2010 },
+            { "amount": 983, "year": 2009 },
+            { "amount": 939, "year": 2008 },
+            { "amount": 931, "year": 2007 }
+          ],
+          "schools": [{ "district": "Detroit" }],
+          "brokerage": {
+            "name": "Real Estate One St. Clair Shores",
+            "phoneNumber": "2483046700"
+          },
+          "agents": [
+            { "primaryPhoneNumber": "3134459159", "roles": ["Listing Agent"] }
+          ],
+          "salePriceIsEstimated": false
+        },
+        "mortgageHistory": [],
+        "openLien": {
+          "totalOpenLienCount": 0
+        },
+        "owner": {
+          "fullName": "EDIFYC CONSTRUCTION LLC",
+          "mailingAddress": {
+            "addressValidity": "Valid",
+            "street": "745 Jackson St NW",
+            "city": "Grand Rapids",
+            "county": "Kent",
+            "state": "MI",
+            "zip": "49504",
+            "zipPlus4": "5680",
+            "hash": "d522b84417527223f02e33de802c2a86",
+            "deliveryPointCode": "450",
+            "dpvMatchCode": "Y",
+            "dpvFootnotes": "AABB"
+          },
+          "names": [
+            { "last": "EDIFYC CONSTRUCTION LLC", "full": "EDIFYC CONSTRUCTION LLC" }
+          ]
+        },
+        "permit": {},
+        "propertyOwnerProfile": {
+          "averageAssessedValue": 20100,
+          "averagePurchasePrice": 27500,
+          "averageYearBuilt": 1924,
+          "propertiesCount": 2,
+          "propertiesTotalEquity": 190473,
+          "propertiesTotalEstimatedValue": 190473,
+          "totalPurchasePrice": 55000
+        },
+        "quickLists": {
+          "absenteeOwner": true,
+          "absenteeOwnerInState": true,
+          "absenteeOwnerOutOfState": false,
+          "activeListing": true,
+          "activeAuction": false,
+          "cashBuyer": true,
+          "corporateOwned": true,
+          "expiredListing": false,
+          "failedListing": false,
+          "freeAndClear": true,
+          "fixAndFlip": false,
+          "forSaleByOwner": false,
+          "highEquity": true,
+          "inherited": false,
+          "involuntaryLien": true,
+          "listedBelowMarketPrice": false,
+          "lowEquity": false,
+          "mailingAddressVacant": false,
+          "onMarket": true,
+          "outOfStateOwner": false,
+          "ownerOccupied": false,
+          "pendingListing": false,
+          "preforeclosure": false,
+          "recentlySold": false,
+          "samePropertyAndMailingAddress": false,
+          "seniorOwner": false,
+          "taxDefault": true,
+          "tiredLandlord": false,
+          "unknownEquity": false,
+          "vacant": false,
+          "vacantLot": false,
+          "hasHoa": false,
+          "hasHoaFees": false,
+          "canceledListing": false,
+          "noticeOfSale": false,
+          "noticeOfDefault": false,
+          "noticeOfLisPendens": false
+        },
+        "sale": {},
+        "valuation": {
+          "estimatedValue": 90082,
+          "priceRangeMin": 21790,
+          "priceRangeMax": 40467,
+          "standardDeviation": 30,
+          "confidenceScore": 86,
+          "asOfDate": "2025-07-30T00:00:00.000Z",
+          "equityCurrentEstimatedBalance": 90082,
+          "ltv": 0,
+          "equityPercent": 100
+        },
+        "meta": {
+          "propertyDateModified": "2025-10-19T04:41:12.384Z",
+          "requestId": "jSrt6kNi3j"
+        }
+      }
+    ],
+    "meta": {
+      "apiVersion": "6.64.0",
+      "performance": {
+        "totalRequestTime": 217,
+        "startTime": "2025-10-19T18:35:22.836Z",
+        "endTime": "2025-10-19T18:35:23.053Z"
+      },
+      "results": {
+        "requestCount": 1,
+        "matchCount": 1,
+        "noMatchCount": 0,
+        "errorCount": 0
+      },
+      "requestId": "rInceOWUoINPKI5"
+    }
+  }
+}
+
+
+
+
+{"status": {"code": 200, "text": "OK"}, "results": {"properties": [{"_id": "8baa536fa13b1057f635d391c89e79f5", "address": {"addressValidity": "Valid", "houseNumber": "2520", "street": "2520 Cortland St", "city": "Detroit", "county": "Wayne", "state": "MI", "zip": "48206", "zipPlus4": "3601", "latitude": 42.387184, "longitude": -83.116395, "countyFipsCode": "26163", "hash": "6924b79e3fd8dc4c1659b01ddaa80b6f"}, "deedHistory": [{"buyers": ["MORRIS EUGENIA"], "sellers": ["WILLIS DARRICK", "ESTATE OF LUCILLE MAXWELL"], "recordingDate": "2010-08-05T00:00:00.000Z", "saleDate": "1997-09-05T00:00:00.000Z", "documentNumber": "2010291131", "recordingBook": "48677", "recordingPage": "0957", "documentTypeCode": "AQ", "documentType": "Intra-Family Transfer", "salePrice": 11000, "interFamily": True, "transactionType": "Non-arms length transactions with valid title company name (no accomodations)", "transactionTypeCode": "A", "mailingAddress": {"street": "2512 Cortland St", "city": "Detroit", "state": "MI", "zip": "48206", "hash": "1ccdbd82b1f5db8fddae8e6584123ff9"}}, {"buyers": ["MORRIS EUGENIA", "WEDLOW DELORES"], "sellers": ["MORRIS EUGENIA", "MORRIS JOHN"], "recordingDate": "2015-01-09T00:00:00.000Z", "saleDate": "2014-12-04T00:00:00.000Z", "documentNumber": "2015021210", "recordingBook": "51964", "recordingPage": "0912", "documentTypeCode": "AQ", "documentType": "Intra-Family Transfer", "salePrice": 0, "interFamily": True, "transactionType": "Non-arms length transactions with valid title company name (no accomodations)", "transactionTypeCode": "A", "mailingAddress": {"street": "2292 Calvert St", "city": "Detroit", "state": "MI", "zip": "48206", "hash": "2cddbb2634859a623746b83ed5e27763"}}, {"buyers": ["EDIFYC CONSTRUCTION LLC"], "sellers": ["WEDLOW DELORES", "WEDLOW JEREMY"], "recordingDate": "2024-07-30T00:00:00.000Z", "saleDate": "2024-06-28T00:00:00.000Z", "documentNumber": "2024.214538", "recordingBook": "58999", "recordingPage": "1453", "documentTypeCode": "BZ", "documentType": "Warranty Deed", "salePrice": 30000, "transactionType": "Arms-length residential transactions (purchase/resales)", "transactionTypeCode": "B", "mailingAddress": {"street": "745 Jackson St NW", "city": "Grand Rapids", "state": "MI", "zip": "49504", "hash": "d522b84417527223f02e33de802c2a86"}}, {"buyers": ["LYAPUSTIN ALEXEI", "BISSELL DEANNA"], "sellers": ["EDIFYC CONSTRUCTION LLC"], "recordingDate": "2025-01-23T00:00:00.000Z", "saleDate": "2025-01-14T00:00:00.000Z", "documentNumber": "2025.18818", "documentTypeCode": "BZ", "documentType": "Warranty Deed", "salePrice": 85000, "transactionType": "Arms-length residential transactions (purchase/resales)", "transactionTypeCode": "B", "mailingAddress": {"street": "11446 E Catalina Hwy", "city": "Tucson", "state": "AZ", "zip": "85749", "hash": "5211ff0dd65b813b6d8b9eaa4746f250"}}], "demographics": {"religious": False}, "foreclosure": {"statusCode": "E", "status": "Rescission Recording", "recordingDate": "2023-02-26T00:00:00.000Z", "filingDate": "2023-02-26T00:00:00.000Z", "documentNumber": "38003", "bookNumber": "58095", "pageNumber": "677", "documentTypeCode": "L", "documentType": "Notice of Rescission", "borrowerName": "Morris Eugenia", "trusteeName": "Wayne County Treasurer", "releaseDate": "2023-02-26T00:00:00.000Z"}, "ids": {"apn": "10003607."}, "intel": {"salePropensity": 76.73, "salePropensityStatus": "Available", "salePropensityCategory": "Medium"}, "involuntaryLien": {}, "listing": {"listingNumber": "20240084599", "status": "Off Market", "price": 1700, "rental": False, "originalListingDate": "2025-02-11T00:00:00.000Z", "maxListPrice": 90900, "maxListPriceDate": "2024-12-17T00:00:00.000Z", "minListPrice": 1700, "minListPriceDate": "2025-02-25T00:00:00.000Z", "soldPrice": 85000, "soldDate": "2025-01-14T00:00:00.000Z", "failedListingDate": "2025-02-25T00:00:00.000Z", "bedroomCount": 3, "bathroomCount": 2, "totalBuildingAreaSquareFeet": 1848, "lotSizeSquareFeet": 4356, "propertyType": "Single Family", "yearBuilt": 1924, "exteriorConstruction": "Aluminum Siding", "heatingTypes": ["Forced Air", "Natural Gas"], "newConstruction": False, "fullBathroomCount": 1, "halfBathroomCount": 1, "listingProviderId": "Realcomp II", "listingUrl": "https://www.zillow.com/homedetails/2520-Cortland-St-Detroit-MI-48206/88111214_zpid/", "livingArea": 1848, "taxes": [{"year": 2024}, {"year": 2023}, {"year": 2022}, {"year": 2021}, {"amount": 934.55, "year": 2020}, {"amount": 767.44, "year": 2019}, {"amount": 767.44, "year": 2018}, {"year": 2017}, {"amount": 878.86, "year": 2016}, {"amount": 878.86, "year": 2015}, {"amount": 864.8, "year": 2013}, {"amount": 878.86, "year": 2010}, {"year": 2009}, {"year": 2008}, {"year": 2007}, {"amount": 86.6, "year": 2005}, {"year": 2004}, {"amount": 421.14, "year": 2001}, {"amount": 375.21, "year": 2000}], "brokerage": {"name": "Real Estate One-St Clair Shrs"}, "agents": [{"name": "Barbara Ward", "primaryPhoneNumber": "3134459159", "roles": ["Listing Agent"]}], "salePriceIsEstimated": False}, "mls": {"mlsNumber": "20240084599", "status": "Off Market", "price": 1700, "rental": False, "originalListingDate": "2025-02-11T00:00:00.000Z", "maxListPrice": 90900, "maxListPriceDate": "2024-12-17T00:00:00.000Z", "minListPrice": 1700, "minListPriceDate": "2025-02-25T00:00:00.000Z", "soldPrice": 85000, "soldDate": "2025-01-14T00:00:00.000Z", "failedListingDate": "2025-02-25T00:00:00.000Z", "bedroomCount": 3, "bathroomCount": 2, "totalBuildingAreaSquareFeet": 1848, "lotSizeSquareFeet": 4356, "propertyType": "Single Family", "yearBuilt": 1924, "exteriorConstruction": "Aluminum Siding", "heatingTypes": ["Forced Air", "Natural Gas"], "newConstruction": False, "fullBathroomCount": 1, "halfBathroomCount": 1, "mlsId": "Realcomp II", "listingUrl": "https://www.zillow.com/homedetails/2520-Cortland-St-Detroit-MI-48206/88111214_zpid/", "livingArea": 1848, "taxes": [{"year": 2024}, {"year": 2023}, {"year": 2022}, {"year": 2021}, {"amount": 934.55, "year": 2020}, {"amount": 767.44, "year": 2019}, {"amount": 767.44, "year": 2018}, {"year": 2017}, {"amount": 878.86, "year": 2016}, {"amount": 878.86, "year": 2015}, {"amount": 864.8, "year": 2013}, {"amount": 878.86, "year": 2010}, {"year": 2009}, {"year": 2008}, {"year": 2007}, {"amount": 86.6, "year": 2005}, {"year": 2004}, {"amount": 421.14, "year": 2001}, {"amount": 375.21, "year": 2000}], "brokerage": {"name": "Real Estate One-St Clair Shrs"}, "agents": [{"name": "Barbara Ward", "primaryPhoneNumber": "3134459159", "roles": ["Listing Agent"]}], "salePriceIsEstimated": False}, "mortgageHistory": [], "openLien": {"totalOpenLienCount": 0}, "owner": {"fullName": "Alexei Lyapustin; Deanna Bissell", "mailingAddress": {"addressValidity": "Valid", "street": "11446 E Catalina Hwy", "city": "Tucson", "county": "Pima", "state": "AZ", "zip": "85749", "zipPlus4": "9688", "hash": "5211ff0dd65b813b6d8b9eaa4746f250", "deliveryPointCode": "466", "dpvMatchCode": "Y", "dpvFootnotes": "AABB"}, "names": [{"first": "Alexei", "last": "Lyapustin", "full": "Alexei Lyapustin"}, {"first": "Deanna", "last": "Bissell", "full": "Deanna Bissell"}]}, "permit": {}, "propertyOwnerProfile": {"averageAssessedValue": 31955, "averagePurchasePrice": 231400, "averageYearBuilt": 1947, "propertiesCount": 5, "propertiesTotalEquity": 608139, "propertiesTotalEstimatedValue": 1281274, "mortgagesTotalBalance": 673135, "mortgagesCount": 1, "mortgagesAverageBalance": 673135, "totalPurchasePrice": 1156999}, "quickLists": {"absenteeOwner": True, "absenteeOwnerInState": False, "absenteeOwnerOutOfState": True, "activeListing": False, "activeAuction": False, "cashBuyer": True, "corporateOwned": False, "expiredListing": False, "failedListing": True, "freeAndClear": True, "fixAndFlip": False, "forSaleByOwner": False, "highEquity": True, "inherited": False, "involuntaryLien": False, "listedBelowMarketPrice": True, "lowEquity": False, "mailingAddressVacant": False, "onMarket": False, "outOfStateOwner": True, "ownerOccupied": False, "pendingListing": False, "preforeclosure": False, "recentlySold": True, "samePropertyAndMailingAddress": False, "seniorOwner": False, "taxDefault": False, "tiredLandlord": False, "unknownEquity": False, "vacant": False, "vacantLot": False, "hasHoa": False, "hasHoaFees": False, "canceledListing": False, "noticeOfSale": False, "noticeOfDefault": False, "noticeOfLisPendens": False}, "sale": {}, "valuation": {"estimatedValue": 82959, "priceRangeMin": 61389, "priceRangeMax": 104528, "standardDeviation": 26, "confidenceScore": 74, "asOfDate": "2025-07-30T00:00:00.000Z", "equityCurrentEstimatedBalance": 82959, "ltv": 0, "equityPercent": 100}, "meta": {"propertyDateModified": "2025-10-19T04:41:12.384Z", "requestId": "GxQXeu2uw"}}], "meta": {"apiVersion": "6.64.0", "performance": {"totalRequestTime": 202, "startTime": "2025-10-19T18:51:18.272Z", "endTime": "2025-10-19T18:51:18.474Z"}, "results": {"requestCount": 1, "matchCount": 1, "noMatchCount": 0, "errorCount": 0}, "requestId": "bVusz3YdJRLDjbZ"}}}

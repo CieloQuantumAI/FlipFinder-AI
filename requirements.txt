@@ -1,0 +1,8 @@
+pandas
+numpy
+requests
+Pillow
+tqdm
+torch
+transformers>=4.30
+scikit-learn

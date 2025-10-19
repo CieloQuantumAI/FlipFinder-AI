@@ -1,0 +1,2 @@
+id,address,listing_price,sqft,num_photos,damage_score,condition_rating,est_rehab_cost,notes
+TEST001,"155 Palmer St NE, Grand Rapids, MI 49505",160000,1116,17,0.511,3,33480,broken roof (0.29); overgrown lawn (0.28); collapsed ceiling (0.28)

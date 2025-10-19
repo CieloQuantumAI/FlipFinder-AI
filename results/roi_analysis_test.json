@@ -1,0 +1,18 @@
+[
+  {
+    "id":"TEST001",
+    "address":"155 Palmer St NE, Grand Rapids, MI 49505",
+    "listing_price":160000,
+    "sqft":1116,
+    "num_photos":17,
+    "damage_score":0.511,
+    "condition_rating":3,
+    "est_rehab_cost":33480,
+    "notes":"broken roof (0.29); overgrown lawn (0.28); collapsed ceiling (0.28)",
+    "arv":null,
+    "profit":null,
+    "roi_percent":null,
+    "margin_percent":null,
+    "deal_summary":"No comps found"
+  }
+]

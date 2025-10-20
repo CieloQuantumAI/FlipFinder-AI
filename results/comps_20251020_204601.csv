@@ -1,0 +1,11 @@
+address,price,sqft,beds,baths,year_built,type,brokerage,agent,listing_url,sqft_source
+"3 Ann St NE, Grand Rapids, MI",249000,1250,3,1,1900,Single Family,Bellabay Realty LLC,Amy S Garcia,https://www.zillow.com/homedetails/3-Ann-St-NE-Grand-Rapids-MI-49505/23802240_zpid/,
+"37 Colfax St NE, Grand Rapids, MI",167000,1046,3,1,1895,N/A,N/A,Brian Anderson,N/A,Zillow (scraped)
+"1815 Coit Ave NE, Grand Rapids, MI",245000,1203,3,2,1900,N/A,N/A,Adam D Paarlberg,N/A,Zillow (scraped)
+"1935 Lafayette Ave NE, Grand Rapids, MI",166000,N/A,2,1,1900,N/A,N/A,Beverly Boerman,N/A,
+"1738 Coit Ave NE, Grand Rapids, MI",205000,1377,3,2,1890,N/A,N/A,Taylor Macias,N/A,Zillow (scraped)
+"1714 Monroe Ave NW, Grand Rapids, MI",205000,N/A,4,2,1900,N/A,N/A,Rachel DeBack,N/A,
+"110 Ann St NE, Grand Rapids, MI",157000,1176,3,2,1885,N/A,N/A,Regis Goetz,N/A,Zillow (scraped)
+"1825 Oakwood Ave NE, Grand Rapids, MI",125000,930,3,1,1900,N/A,N/A,Mike Harig,N/A,Zillow (scraped)
+"231 Dean St NE, Grand Rapids, MI",195000,1290,3,1,1885,N/A,N/A,Jason Young,N/A,Zillow (scraped)
+"19 Caledonia St NE, Grand Rapids, MI",182000,1157,3,2,1880,Single Family,Hello Homes GR,Ashley Schaefer,https://www.zillow.com/homedetails/19-Caledonia-St-NE-Grand-Rapids-MI-49505/23802985_zpid/,

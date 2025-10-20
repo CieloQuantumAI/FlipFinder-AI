@@ -1,0 +1,139 @@
+{
+  "property": {
+    "address": "155 Palmer St NE, Grand Rapids, MI",
+    "sqft": 1116,
+    "id": "TEST001"
+  },
+  "arv": 190646.28,
+  "listing_price": 160000,
+  "max_allowable_offer": 99972.4,
+  "recommended_offer": 94973.78,
+  "rehab_cost": 33480,
+  "condition_rating": 3,
+  "deal_rating": "POOR",
+  "recommendation": "Pass - Overpriced by $60,028 (37.5%)",
+  "price_analysis": {
+    "arv": 190646.28,
+    "listing_price": 160000,
+    "difference": 60027.6,
+    "difference_percent": 37.52,
+    "arv_to_listing_ratio": 119.15
+  },
+  "roi_at_listing_price": {
+    "arv": 190646.28,
+    "total_investment": 216531.7,
+    "gross_profit": -25885.42,
+    "roi_percent": -11.95,
+    "breakdown": {
+      "purchase_price": 160000,
+      "rehab_cost": 33480,
+      "closing_costs": 4800.0,
+      "holding_costs": 3000,
+      "selling_costs": 15251.7
+    },
+    "holding_months": 6
+  },
+  "roi_at_mao": {
+    "arv": 190646.28,
+    "total_investment": 154703.27,
+    "gross_profit": 35943.01,
+    "roi_percent": 23.23,
+    "breakdown": {
+      "purchase_price": 99972.4,
+      "rehab_cost": 33480,
+      "closing_costs": 2999.17,
+      "holding_costs": 3000,
+      "selling_costs": 15251.7
+    },
+    "holding_months": 6
+  },
+  "target_roi_scenarios": {
+    "roi_10_percent": {
+      "target_roi_percent": 10,
+      "calculated_purchase_price": 118041.84,
+      "roi_analysis": {
+        "arv": 190646.28,
+        "total_investment": 173314.8,
+        "gross_profit": 17331.48,
+        "roi_percent": 10.0,
+        "breakdown": {
+          "purchase_price": 118041.84,
+          "rehab_cost": 33480,
+          "closing_costs": 3541.26,
+          "holding_costs": 3000,
+          "selling_costs": 15251.7
+        },
+        "holding_months": 6
+      }
+    },
+    "roi_15_percent": {
+      "target_roi_percent": 15,
+      "calculated_purchase_price": 110725.89,
+      "roi_analysis": {
+        "arv": 190646.28,
+        "total_investment": 165779.37,
+        "gross_profit": 24866.91,
+        "roi_percent": 15.0,
+        "breakdown": {
+          "purchase_price": 110725.89,
+          "rehab_cost": 33480,
+          "closing_costs": 3321.78,
+          "holding_costs": 3000,
+          "selling_costs": 15251.7
+        },
+        "holding_months": 6
+      }
+    },
+    "roi_20_percent": {
+      "target_roi_percent": 20,
+      "calculated_purchase_price": 104019.61,
+      "roi_analysis": {
+        "arv": 190646.28,
+        "total_investment": 158871.9,
+        "gross_profit": 31774.38,
+        "roi_percent": 20.0,
+        "breakdown": {
+          "purchase_price": 104019.61,
+          "rehab_cost": 33480,
+          "closing_costs": 3120.59,
+          "holding_costs": 3000,
+          "selling_costs": 15251.7
+        },
+        "holding_months": 6
+      }
+    },
+    "roi_25_percent": {
+      "target_roi_percent": 25,
+      "calculated_purchase_price": 97849.83,
+      "roi_analysis": {
+        "arv": 190646.28,
+        "total_investment": 152517.02,
+        "gross_profit": 38129.26,
+        "roi_percent": 25.0,
+        "breakdown": {
+          "purchase_price": 97849.83,
+          "rehab_cost": 33480,
+          "closing_costs": 2935.49,
+          "holding_costs": 3000,
+          "selling_costs": 15251.7
+        },
+        "holding_months": 6
+      }
+    }
+  },
+  "comps_summary": {
+    "comp_count": 3,
+    "median_price_per_sqft": 170.83,
+    "mean_price_per_sqft": 175.78,
+    "price_range": {
+      "min": 157.3,
+      "max": 199.2
+    }
+  },
+  "rehab_summary": {
+    "condition_rating": 3,
+    "damage_score": 0.45,
+    "estimated_cost": 33480,
+    "notes": "water damage (0.72); peeling paint (0.68)"
+  }
+}

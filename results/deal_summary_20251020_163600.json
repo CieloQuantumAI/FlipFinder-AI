@@ -1,0 +1,71 @@
+{
+  "property": {
+    "id": "PROP001",
+    "address": "155 Palmer St NE",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip_code": "49505",
+    "listing_price": 160000,
+    "sqft": 1116,
+    "beds": 3,
+    "baths": 2
+  },
+  "arv": 198927.0,
+  "listing_price": 160000,
+  "max_allowable_offer": 105768.9,
+  "recommended_offer": 100480.45,
+  "rehab_cost": 33480,
+  "condition_rating": 3,
+  "deal_rating": "POOR",
+  "recommendation": "Pass - Overpriced by $54,231 (33.9%)",
+  "price_analysis": {
+    "arv": 198927.0,
+    "listing_price": 160000,
+    "difference": 54231.1,
+    "difference_percent": 33.89,
+    "arv_to_listing_ratio": 124.33
+  },
+  "roi_at_listing_price": {
+    "arv": 198927.0,
+    "total_investment": 217194.16,
+    "gross_profit": -18267.16,
+    "roi_percent": -8.41,
+    "breakdown": {
+      "purchase_price": 160000,
+      "rehab_cost": 33480,
+      "closing_costs": 4800.0,
+      "holding_costs": 3000,
+      "selling_costs": 15914.16
+    },
+    "holding_months": 6
+  },
+  "roi_at_mao": {
+    "arv": 198927.0,
+    "total_investment": 161336.13,
+    "gross_profit": 37590.87,
+    "roi_percent": 23.3,
+    "breakdown": {
+      "purchase_price": 105768.9,
+      "rehab_cost": 33480,
+      "closing_costs": 3173.07,
+      "holding_costs": 3000,
+      "selling_costs": 15914.16
+    },
+    "holding_months": 6
+  },
+  "comps_summary": {
+    "comp_count": 2,
+    "median_price_per_sqft": 178.25,
+    "mean_price_per_sqft": 178.25,
+    "price_range": {
+      "min": 157.3,
+      "max": 199.2
+    }
+  },
+  "rehab_summary": {
+    "condition_rating": 3,
+    "damage_score": 0.511,
+    "estimated_cost": 33480,
+    "notes": "broken roof (0.29); overgrown lawn (0.28); collapsed ceiling (0.28)"
+  }
+}

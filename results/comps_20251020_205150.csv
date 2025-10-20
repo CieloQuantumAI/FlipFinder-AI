@@ -1,0 +1,3 @@
+address,price,sqft,beds,baths,year_built,type,brokerage,agent,listing_url
+"3 Ann St NE, Grand Rapids, MI",249000,1250,3,1,1900,Single Family,Bellabay Realty LLC,Amy S Garcia,https://www.zillow.com/homedetails/3-Ann-St-NE-Grand-Rapids-MI-49505/23802240_zpid/
+"19 Caledonia St NE, Grand Rapids, MI",182000,1157,3,2,1880,Single Family,Hello Homes GR,Ashley Schaefer,https://www.zillow.com/homedetails/19-Caledonia-St-NE-Grand-Rapids-MI-49505/23802985_zpid/

@@ -4,3 +4,8 @@
 "deal_summary_test.json"
 "results"
 "images"
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
